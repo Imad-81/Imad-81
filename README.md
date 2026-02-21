@@ -42,44 +42,6 @@ I work across:
 
 ---
 
-## 🚀 Featured Projects
-
-### 📈 ML Trading Algorithm — MARK5
-Machine learning-driven cryptocurrency trading system for predictive decision execution.  
-> LSTM • XGBoost • TensorFlow • Pandas  
-
----
-
-### 🥗 CUT — AI Calorie Tracker
-AI-powered nutrition tracker with natural-language logging & real-time macro HUD.  
-> Next.js • Zustand • Recharts • Framer Motion  
-
----
-
-### 🧠 noCap — Offline Slang Analyzer
-Privacy-first slang decoder powered by local LLM inference.  
-> Next.js • TailwindCSS • LM Studio  
-
----
-
-### 🏫 Smart Campus Crowd System
-Real-time crowd detection & predictive analytics using Computer Vision.  
-> YOLOv8 • OpenCV • FastAPI • React  
-
----
-
-### 📝 AI Humanizer
-Automation pipeline for converting AI-generated text into natural academic writing.  
-> Python • NLP • Local LLMs  
-
----
-
-### 🎓 CampusTasks
-Peer-to-peer micro-task marketplace built for university collaboration.  
-> React • Vite • LocalStorage  
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
