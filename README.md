@@ -1,5 +1,8 @@
 <h1 align="center">👨‍💻 Imad</h1>
 <h3 align="center">AI Systems • Machine Learning • Full Stack Development</h3>
+<p align="center">
+  🌐 <a href="http://bit.ly/4s3P2di" target="_blank"><b>Visit My Portfolio</b></a>
+</p>
 
 ---
 
