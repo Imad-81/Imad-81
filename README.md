@@ -1,9 +1,5 @@
 <h1 align="center">👨‍💻 Imad</h1>
 <h3 align="center">AI Systems • Machine Learning • Full Stack Development</h3>
-<p align="center">
-  🌐 <a href="https://portfolioimad-self.vercel.app" target="_blank"><b>Visit My Portfolio</b></a>
-</p>
-
 ---
 
 ## 🧠 About Me
